@@ -1,2 +1,1 @@
-Hi, I’m Zaroxqs. You can reach me on Discord: "Zaro#1015".
-
+Hi, I’m Zaroxqs. I occasionally do stuff on github.
