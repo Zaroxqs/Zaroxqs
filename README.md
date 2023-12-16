@@ -1,1 +1,1 @@
-Hi, I’m Zaroxqs. I occasionally do stuff on github.
+Yeah I barely use github
