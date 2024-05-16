@@ -22,5 +22,6 @@ I'm currently planning on getting my bachelor's degree in software development (
 - I wish to gain more expertise and a professional background in coding
 - Hmu on Discord if you want: zaroxqs
 - I have a cat
-<br />
+
+
 ![cat](https://github.com/Zaroxqs/Zaroxqs/assets/101127566/1cabf680-c2db-4fb6-baea-9aebf210fc44)
