@@ -20,7 +20,6 @@ I'm currently planning on getting my bachelor's degree in software development (
 
 ## Right Now
 - I wish to gain more expertise and a professional background in coding
-- Hmu on Discord if you want: zaroxqs
 - I have a cat
 
 
