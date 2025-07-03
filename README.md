@@ -1,4 +1,4 @@
-# Hi, I'm Zaroxqs or Joshua 👍
+# Hi, I'm Zaroxqs or Joshua
 
 ## About Me
 I'm currently planning on getting a degree in software development. I started coding at 8 years old, and since then have tried a ton of different languages.
