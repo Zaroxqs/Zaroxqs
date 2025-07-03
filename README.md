@@ -12,6 +12,7 @@ I'm currently planning on getting a degree in software development. I started co
 
 ## Right Now
 - I wish to gain more experience and a professional background in coding
-- Here's a picture of my cat !!
 
+## My cat
+- Here's my cat
 ![cat](https://github.com/Zaroxqs/Zaroxqs/assets/101127566/1cabf680-c2db-4fb6-baea-9aebf210fc44)
